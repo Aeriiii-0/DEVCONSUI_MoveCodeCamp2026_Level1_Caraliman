@@ -65,19 +65,20 @@ const useMetaTags = (metadata: {
 // PORTFOLIO DATA CONFIGURATION
 // ============================================================================
 const defaultPortfolioData = {
-  name: "LADY DIANE BAUZON CASILANG",
+ name: "ARRIANE NICHOLE M. CARALIMAN",
   course: "BS in Information Technology",
-  school: "FEU Institute of Technology",
-  about: "I am a fourth-year IT student and freelance designer who integrates technical troubleshooting with creative insight to deliver innovative, efficient solutions.",
+  school: "PUP Biñan",
+  about: "I am a dedicated IT student specializing in full-stack development and blockchain technology, currently exploring the Sui Move ecosystem to build secure, decentralized solutions.",
   skills: [
-    "Graphic Design",
-    "UI / UX Design",
-    "Project Management",
     "Full Stack Development",
-    "Web & App Development"
+    "Sui Move Smart Contracts",
+    "PHP & SQL",
+    "Flutter Development",
+    "Agile Methodologies"
   ],
-  linkedin: "https://www.linkedin.com/in/ldcasilang/",
-  github: "https://github.com/ldcasilang",
+  linkedin: "https://www.linkedin.com/in/arriane-caraliman-b51028375/",
+  github: "https://github.com/Aeriiii-0",
+  facebook: "https://www.facebook.com/arrianenicholee"
 }
 
 // Network configuration
